@@ -1,0 +1,13 @@
+body {
+    background-image: url("h5_06.1051.1.jpg");
+    width: 1072px;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+@font-face {
+    font-family: pacific-again;
+    src: url(/pacific-again.ttf);
+}
